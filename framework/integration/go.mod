@@ -1,9 +1,9 @@
 module integration
 
-go 1.24.7
+go 1.25.0
 
 require (
-	github.com/apache/thrift v0.13.0
+	github.com/apache/thrift v0.23.0
 	github.com/cloudwego/hertz v0.10.2
 	github.com/emicklei/go-restful/v3 v3.13.0
 	github.com/go-resty/resty/v2 v2.16.5
@@ -29,9 +29,9 @@ require (
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/net v0.56.0 // indirect
+	golang.org/x/sys v0.46.0 // indirect
+	golang.org/x/text v0.38.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
