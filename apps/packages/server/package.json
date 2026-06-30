@@ -26,7 +26,7 @@
     "dependencies": {
         "@didvault/sdk": "../sdk",
         "ansi-colors": "4.1.1",
-        "axios": "1.15.2",
+        "axios": "1.16.0",
         "bcrypt": "6.0.0",
         "date-fns": "2.22.1",
         "dotenv": "16.0.0",
