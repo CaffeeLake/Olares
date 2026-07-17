@@ -28,7 +28,7 @@ require (
 	github.com/eball/zeroconf v0.2.5
 	github.com/go-resty/resty/v2 v2.16.5
 	github.com/godbus/dbus/v5 v5.2.2
-	github.com/gofiber/fiber/v2 v2.52.12
+	github.com/gofiber/fiber/v2 v2.52.14
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/gopacket v1.1.19
 	github.com/google/uuid v1.6.0
