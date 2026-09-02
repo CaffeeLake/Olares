@@ -1,9 +1,9 @@
 module integration
 
-go 1.24.7
+go 1.25
 
 require (
-	github.com/apache/thrift v0.13.0
+	github.com/apache/thrift v0.24.0
 	github.com/cloudwego/hertz v0.10.2
 	github.com/emicklei/go-restful/v3 v3.13.0
 	github.com/go-resty/resty/v2 v2.16.5
