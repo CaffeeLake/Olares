@@ -22,7 +22,7 @@
         "eslint-plugin-vue": "^9.0.0",
         "http-server": "14.1.0",
         "husky": ">=7",
-        "lerna": "9.0.7",
+        "lerna": "10.0.1",
         "lint-staged": ">=10",
         "prettier": "2.5.1",
         "ts-node": "10.9.2",
